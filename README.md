@@ -5,7 +5,9 @@
   
 - View my website🌐 and projects📚 here : [leo-t-88.github.io](https://leo-t-88.github.io)
 
-### My Stats
-![Leo-t-88's stats](https://github-readme-stats.vercel.app/api/?username=leo-t-88&theme=tokyonight&border_radius=10&rank_icon=github&card_width=450)
-![Leo-t-88's language](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-t-88&layout=compact&theme=tokyonight&border_radius=10&card_width=450)
+## Languages
+
+<h1 align="center"><img src="languageslogos.png" width="33%"></h1>
+<h1 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-t-88&layout=compact&theme=tokyonight&border_radius=10&card_width=500"></h1>
+
 <img src="bottom.png" width="100%">
