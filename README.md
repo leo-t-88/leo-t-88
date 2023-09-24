@@ -1,4 +1,4 @@
-<img src="https://leo-t-88.github.io/aboutme/top.png" width="100%">
+<img src="https://leo-t-88.github.io/aboutme/top.png" width="100%" height="200px">
 <h1 align="center">Hi 👋, I'm Léo</h1>
 
 - My passions are Programing💻, music 🎵, ...
@@ -11,4 +11,4 @@
 <h1 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-t-88&layout=compact&theme=tokyonight&border_radius=10&card_width=500"></h1>
 
 Readme currently under construction
-<img src="https://leo-t-88.github.io/aboutme/bottom.png" width="100%">
+<img src="https://leo-t-88.github.io/aboutme/bottom.png" width="100%" height="200px">
