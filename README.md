@@ -1,14 +1,20 @@
 <img src="https://leo-t-88.github.io/aboutme/top.png" width="100%" height="150px">
-<h1 align="center">Hi 👋, I'm Léo</h1>
+<h1 align="center">Hi 👋, I'm <img src="https://leo-t-88.github.io/logo.png" height="30px">éo</h1>
+<p align="center">
+    <a href="mailto:leothomas743@gmail.com"><img src="https://leo-t-88.github.io/files/gmail.png" height="40px"></a>
+    <a href="https://codepen.io/leo-t88"><img src="https://leo-t-88.github.io/files/codepen.png" height="40px"></a>
+    <a href="https://leo-t-88.github.io/files/linkedin.png"><img src="https://leo-t-88.github.io/files/linkedin.png" height="40px"></a>
+</p>
 
-- My passions are Programing💻, music 🎵, ...
-  
-- View my website🌐 and projects📚 here : [leo-t-88.github.io](https://leo-t-88.github.io)
+- I live in France 💙🤍💖 !
+- I love programming  in my free time  💻 !
+- I am currently learning new languages and developing my skills... 🌐
 
-## Languages :
+[View more here](https://leo-t-88.github.io/)
+
+## Languages (Github stats) :
 
 <p align="center"><img src="languageslogos.png" height="220px"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-t-88&layout=compact&theme=tokyonight&border_radius=10&card_width=500"</p>
 
-Readme currently under construction
 <img src="https://leo-t-88.github.io/aboutme/bottom.png" width="100%" height="150px">
