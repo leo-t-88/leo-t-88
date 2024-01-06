@@ -17,7 +17,6 @@
 <p align="center"><img src="languageslogos.png" height="220px"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-t-88&layout=compact&theme=tokyonight&border_radius=10&card_width=500"</p>
 
-## My Projects :
-See below
-
 <img src="https://leo-t-88.github.io/aboutme/bottom.png" width="100%" height="125px">
+
+## My Projects :
