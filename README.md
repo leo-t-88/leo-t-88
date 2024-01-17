@@ -1,4 +1,4 @@
-<img src="https://leo-t-88.github.io/aboutme/top.png" width="100%" height="125px">
+<img src="https://leo-t-88.github.io/aboutme/top.png" width="100%" height="110px">
 <h1 align="center">Hi 👋, I'm <img src="https://leo-t-88.github.io/logo.png" height="30px">éo</h1>
 <p align="center">
     <a href="https://www.instagram.com/leo.t88/"><img src="https://leo-t-88.github.io/files/insta.png" height="40px"></a>
