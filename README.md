@@ -1,5 +1,5 @@
 <img src="https://leo-t-88.github.io/aboutme/top.png" width="100%" height="110px">
-<h1 align="center">Hi 👋, I'm <img src="https://leo-t-88.github.io/logo.png" height="30px">éo</h1>
+<h1 align="center">Hi 👋, I'm <img src="https://leo-t-88.github.io/logo.png" height="25px">éo</h1>
 <p align="center">
     <a href="https://www.instagram.com/leo.t88/"><img src="https://leo-t-88.github.io/files/insta.png" height="40px"></a>
     <a href="https://discord.com/users/596300572294905857"><img src="https://leo-t-88.github.io/files/discord.png" height="40px"></a>
