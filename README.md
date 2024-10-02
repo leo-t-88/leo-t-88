@@ -1,4 +1,3 @@
-<img src="https://leo-t-88.github.io/aboutme/top.png" width="100%" height="110px">
 <h1 align="center">Hi 👋, I'm <img src="https://leo-t-88.github.io/logo.png" height="25px">éo</h1>
 <p align="center">
     <a href="https://www.instagram.com/leo.t88/"><img src="https://leo-t-88.github.io/files/insta.png" height="40px"></a>
@@ -12,11 +11,18 @@
 - I love programming  in my free time  💻 !
 - I am currently learning new languages and developing my skills... 🌐
 
-[View more here (My Website)](https://leo-t-88.github.io/)
+## 🛠️ Langages et Logiciels 🛠️
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,java"><br>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,github,ableton,ps">
+</p>
 
-## Languages (Github stats) :
+## 📊 Stats 📊
 
-<p align="center"><img src="languageslogos.png" height="200px"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-t-88&layout=compact&theme=tokyonight&border_radius=10&card_width=500"</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=leo-t-88&theme=transparent&hide_border=true&locale=fr"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=leo-t-88&show_icons=true&theme=transparent&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-t-88&layout=donut&theme=transparent&hide_border=true">
+</div>
 
 ## My Projects :
