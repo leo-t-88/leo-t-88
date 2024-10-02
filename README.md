@@ -11,7 +11,7 @@
 - I love programming  in my free time  💻 !
 - I am currently learning new languages and developing my skills... 🌐
 
-## 🛠️ Langages et Logiciels 🛠️
+## 🛠️ Languages and Software 🛠️
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,cs,java"><br>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,github,ableton,ps">
@@ -25,4 +25,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-t-88&layout=donut&theme=transparent&hide_border=true">
 </div>
 
-## My Projects :
+## 💿 My Projects 💿
