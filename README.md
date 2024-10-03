@@ -14,7 +14,7 @@
 ## 🛠️ Languages and Software 🛠️
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,cs,java"><br>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,github,ableton,ps">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,github,npm,ps">
 </p>
 
 ## 📊 Stats 📊
