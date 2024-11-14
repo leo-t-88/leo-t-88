@@ -19,7 +19,6 @@
 
 ## 📊 Stats :
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=leo-t-88&theme=transparent&hide_border=true&locale=en"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=leo-t-88&show_icons=true&theme=transparent&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-t-88&layout=donut&theme=transparent&hide_border=true">
 </div>
