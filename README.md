@@ -10,10 +10,11 @@
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,github,npm,ps">
 </p>
 
+## 💿 My Projects :
+See all here → https://github.com/leo-t-88/leo-t-88/blob/main/projects.md
+
 ## 📊 Stats :
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leo-t-88&show_icons=true&theme=transparent&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-t-88&layout=donut&theme=transparent&hide_border=true">
 </div>
-
-## 💿 My Projects :
