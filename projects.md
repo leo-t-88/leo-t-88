@@ -17,6 +17,9 @@
 **Timeline Game 🃏** ``(Java) - Console App`` :
 - Source Code : https://github.com/leo-t-88/timeline-game
 
+**Bass Arena Expansion 🏎️** ``(XML, Audio Edition) - Forza Horizon 5 Mod`` :
+- Mod Page : https://github.com/leo-t-88/FH5_Mod-BassArenaExpansion
+
 **Github PWA Test** ``(HTML, CSS, JS) - Fork`` :
 - Source Code : https://github.com/leo-t-88/github-page-pwa
 
