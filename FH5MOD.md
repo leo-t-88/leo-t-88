@@ -103,8 +103,8 @@ This should work on Steam and Windows Store version.
           <Marker Name="TrackStart" Position="0" />
           <Marker Name="DJDrop" Position="0" />
           <Marker Name="TrackDrop" Position="1369188" />
-          <Marker Name="TrackLoopStart" Position="2005480" />
-          <Marker Name="TrackLoopEnd" Position="5541607" />
+          <Marker Name="TrackLoopStart" Position="2014212" />
+          <Marker Name="TrackLoopEnd" Position="5542897" />
           <Marker Name="DJSegment" Position="4215657" />
           <Marker Name="PostDrop" Position="7758831" />
           <Marker Name="PostRaceLoopStart" Position="8509944" />
@@ -182,8 +182,8 @@ This should work on Steam and Windows Store version.
           <Marker Name="TrackStart" Position="0" />
           <Marker Name="DJDrop" Position="642253" />
           <Marker Name="TrackDrop" Position="2652126" />
-          <Marker Name="TrackLoopStart" Position="2652126" />
-          <Marker Name="TrackLoopEnd" Position="7442577" />
+          <Marker Name="TrackLoopStart" Position="2656826" />
+          <Marker Name="TrackLoopEnd" Position="7451266" />
           <Marker Name="DJSegment" Position="4110418" />
           <Marker Name="PostDrop" Position="7442577" />
           <Marker Name="PostRaceLoopStart" Position="7761169" />
@@ -222,8 +222,8 @@ This should work on Steam and Windows Store version.
           <Marker Name="TrackStart" Position="0" />
           <Marker Name="DJDrop" Position="266994" />
           <Marker Name="TrackDrop" Position="811941" />
-          <Marker Name="TrackLoopStart" Position="1695226" />
-          <Marker Name="TrackLoopEnd" Position="5053485" />
+          <Marker Name="TrackLoopStart" Position="2322989" />
+          <Marker Name="TrackLoopEnd" Position="5009724" />
           <Marker Name="DJSegment" Position="3008180" />
           <Marker Name="PostDrop" Position="5723414" />
           <Marker Name="PostRaceLoopStart" Position="5871500" />
@@ -301,8 +301,8 @@ This should work on Steam and Windows Store version.
           <Marker Name="TrackStart" Position="0" />
           <Marker Name="DJDrop" Position="50277" />
           <Marker Name="TrackDrop" Position="355756" />
-          <Marker Name="TrackLoopStart" Position="656503" />
-          <Marker Name="TrackLoopEnd" Position="3957423" />
+          <Marker Name="TrackLoopStart" Position="660884" />
+          <Marker Name="TrackLoopEnd" Position="4027865" />
           <Marker Name="DJSegment" Position="2638282" />
           <Marker Name="PostDrop" Position="5245887" />
           <Marker Name="PostRaceLoopStart" Position="5928742" />
@@ -340,7 +340,7 @@ This should work on Steam and Windows Store version.
           <Marker Name="TrackStart" Position="0" />
           <Marker Name="DJDrop" Position="0" />
           <Marker Name="TrackDrop" Position="1322289" />
-          <Marker Name="TrackLoopStart" Position="3405780" />
+          <Marker Name="TrackLoopStart" Position="3403107" />
           <Marker Name="TrackLoopEnd" Position="7770166" />
           <Marker Name="DJSegment" Position="4814709" />
           <Marker Name="PostDrop" Position="7758621" />
@@ -418,7 +418,7 @@ This should work on Steam and Windows Store version.
           <Marker Name="TrackStart" Position="0" />
           <Marker Name="DJDrop" Position="368676" />
           <Marker Name="TrackDrop" Position="1196149" />
-          <Marker Name="TrackLoopStart" Position="2105550" />
+          <Marker Name="TrackLoopStart" Position="2116737" />
           <Marker Name="TrackLoopEnd" Position="5849661" />
           <Marker Name="DJSegment" Position="4952811" />
           <Marker Name="PostDrop" Position="8450173" />
