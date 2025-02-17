@@ -7,7 +7,7 @@
 ## 🛠️ Languages and Software :
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,cs,java"><br>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,github,npm,ps">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,rider,idea,ps,github">
 </p>
 
 ## 💿 My Projects :
