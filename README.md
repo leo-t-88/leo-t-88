@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <img src="https://leo-t-88.github.io/logo.png" height="25px">éo</h1>
+<h1 align="center">Hi 👋, I'm <img src="https://leo-t-88.github.io/logo.png" height="23px">éo</h1>
 
 - I live in France 💙🤍💖 !
 - I love programming  in my free time  💻 !
