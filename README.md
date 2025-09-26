@@ -2,7 +2,7 @@
 
 - I live in France 💙🤍💖
 - I love programming  in my free time and I'm currently developing my skills... 💻
-- My projects (List not updated) → https://github.com/leo-t-88/leo-t-88/blob/main/projects.md
+- Website → https://leo-t-88.github.io 
 
 ## 🛠️ Languages and Software :
 <p align="center">
